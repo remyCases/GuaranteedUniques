@@ -45,10 +45,10 @@ Other mods I've made:
     - [Speedshard_Skinning](https://github.com/remyCases/SpeedshardSkinning)
     - [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon)
     - [Speedshard_Stances](https://github.com/remyCases/SpeedshardStances)
-    - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
-    - [MoreSaveSlots](https://github.com/remyCases/Stoneshard-MoreSaveSlots)
-    - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
     - [Character Creator](https://github.com/remyCases/CharacterCreator)
+    - [MoreSaveSlots](https://github.com/remyCases/Stoneshard-MoreSaveSlots)
+    - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
+    - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
 
 - Shardpunk:
     - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
