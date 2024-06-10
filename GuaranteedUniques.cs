@@ -1,6 +1,6 @@
 ﻿// Copyright (C)
 // See LICENSE file for extended copyright information.
-// This file is part of the repository from .
+// This file is part of the repository from https://github.com/remyCases/GuaranteedUniques.
 
 using ModShardLauncher;
 using ModShardLauncher.Mods;
