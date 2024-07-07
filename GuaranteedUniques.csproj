@@ -13,9 +13,6 @@
     <Reference Include="UndertaleModLib">
       <HintPath>..\..\UndertaleModLib.dll</HintPath>
     </Reference>
-    <Reference Include="UndertaleModTool">
-      <HintPath>..\..\UndertaleModTool.dll</HintPath>
-    </Reference>
   </ItemGroup>
   
 </Project>

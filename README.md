@@ -19,7 +19,8 @@ A [video](https://www.youtube.com/watch?v=_J0oJYGi38E&t=13s&ab_channel=Nylux) wa
 
 ### Using MSL
 
-- Download the latest `.sml` file released of [GuaranteedUniques](https://github.com/remyCases/GuaranteedUniques/releases).
+- Download the latest `.zip` of [GuaranteedUniques](https://github.com/remyCases/GuaranteedUniques/releases).
+- Unzip it, you should have one file.
 - Move the `GuaranteedUniques.sml` in the `MSL/Mods` folder.
 - Run `ModShardLauncher.exe`.
 - Click on the anvil icon on the leftside.
@@ -41,7 +42,6 @@ Other mods I've made:
 - Stoneshard:
     - [Speedshard_Core](https://github.com/remyCases/SpeedshardCore)
     - [Speedshard_Sprint](https://github.com/remyCases/SpeedshardSprint)
-    - [Speedshard_Backpack](https://github.com/remyCases/SpeedshardBackpack)
     - [Speedshard_Skinning](https://github.com/remyCases/SpeedshardSkinning)
     - [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon)
     - [Speedshard_Stances](https://github.com/remyCases/SpeedshardStances)
