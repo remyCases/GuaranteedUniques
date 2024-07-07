@@ -20,7 +20,7 @@ jobs:
         with:
           find: \bVersion\s=>\s\"[\d\.]+
           replace: "Version => \"${{ github.ref_name }}"
-          include: "CharacCreator.cs"
+          include: "GuaranteedUniques.cs"
 
       - name: Set user info
         run: |
