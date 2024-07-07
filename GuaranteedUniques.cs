@@ -11,7 +11,7 @@ public class GuaranteedUniques : Mod
     public override string Author => "zizani";
     public override string Name => "GuaranteedUniques";
     public override string Description => "A more reliable way to farm unique weapons and armors.";
-    public override string Version => "1.1.0.0";
+    public override string Version => "1.1.0";
     public override string TargetVersion => "0.8.2.10";
 
     public override void PatchMod()
